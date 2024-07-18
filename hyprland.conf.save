@@ -1,0 +1,13 @@
+source=~/.config/hypr/settings/env.conf
+source=~/.config/hypr/settings/monitors.conf
+source=~/.config/hypr/settings/exec.conf
+#source=~/.config/hypr/settings/animation.conf
+source=~/.config/hypr/settings/variables.conf
+source=~/.config/hypr/settings/general.con
+source=~/.config/hypr/settings/decoration.conf
+source=~/.config/hypr/settings/input.conf
+source=~/.config/hypr/settings/rules.conf
+source=~/.config/hypr/settings/colors.conf
+source=~/.config/hypr/settings/keybinds.conf
+source=~/.config/hypr/settings/group.conf
+
